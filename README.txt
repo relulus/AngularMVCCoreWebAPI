@@ -28,13 +28,3 @@ dotnet watch run
 """
 
 8. Visit http://localhost:4200 in the browser
-
-
-
-### Migrations with EF steps: (NuGet)
-
-1. Add-Migration Initial
-2. Update-Database -Verbose
-
-To remove a migration:
-3. Remove-Migration 

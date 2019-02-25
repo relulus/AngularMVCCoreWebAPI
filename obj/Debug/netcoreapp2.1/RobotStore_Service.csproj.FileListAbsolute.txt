@@ -1,0 +1,54 @@
+C:\Users\relut\Desktop\ASP NET CORE WEB API\AngularCLI-ASPNET-Core-CustomersService-master\bin\Debug\netcoreapp2.1\RobotStore_Service.deps.json
+C:\Users\relut\Desktop\ASP NET CORE WEB API\AngularCLI-ASPNET-Core-CustomersService-master\bin\Debug\netcoreapp2.1\RobotStore_Service.runtimeconfig.json
+C:\Users\relut\Desktop\ASP NET CORE WEB API\AngularCLI-ASPNET-Core-CustomersService-master\bin\Debug\netcoreapp2.1\RobotStore_Service.runtimeconfig.dev.json
+C:\Users\relut\Desktop\ASP NET CORE WEB API\AngularCLI-ASPNET-Core-CustomersService-master\bin\Debug\netcoreapp2.1\RobotStore_Service.dll
+C:\Users\relut\Desktop\ASP NET CORE WEB API\AngularCLI-ASPNET-Core-CustomersService-master\bin\Debug\netcoreapp2.1\RobotStore_Service.pdb
+C:\Users\relut\Desktop\ASP NET CORE WEB API\AngularCLI-ASPNET-Core-CustomersService-master\bin\Debug\netcoreapp2.1\RobotStore_Service.Views.dll
+C:\Users\relut\Desktop\ASP NET CORE WEB API\AngularCLI-ASPNET-Core-CustomersService-master\bin\Debug\netcoreapp2.1\RobotStore_Service.Views.pdb
+C:\Users\relut\Desktop\ASP NET CORE WEB API\AngularCLI-ASPNET-Core-CustomersService-master\obj\Debug\netcoreapp2.1\RobotStore_Service.csproj.CoreCompileInputs.cache
+C:\Users\relut\Desktop\ASP NET CORE WEB API\AngularCLI-ASPNET-Core-CustomersService-master\obj\Debug\netcoreapp2.1\RobotStore_Service.RazorAssemblyInfo.cache
+C:\Users\relut\Desktop\ASP NET CORE WEB API\AngularCLI-ASPNET-Core-CustomersService-master\obj\Debug\netcoreapp2.1\RobotStore_Service.RazorAssemblyInfo.cs
+C:\Users\relut\Desktop\ASP NET CORE WEB API\AngularCLI-ASPNET-Core-CustomersService-master\obj\Debug\netcoreapp2.1\RobotStore_Service.AssemblyInfoInputs.cache
+C:\Users\relut\Desktop\ASP NET CORE WEB API\AngularCLI-ASPNET-Core-CustomersService-master\obj\Debug\netcoreapp2.1\RobotStore_Service.AssemblyInfo.cs
+C:\Users\relut\Desktop\ASP NET CORE WEB API\AngularCLI-ASPNET-Core-CustomersService-master\obj\Debug\netcoreapp2.1\RobotStore_Service.TagHelpers.input.cache
+C:\Users\relut\Desktop\ASP NET CORE WEB API\AngularCLI-ASPNET-Core-CustomersService-master\obj\Debug\netcoreapp2.1\RobotStore_Service.TagHelpers.output.cache
+C:\Users\relut\Desktop\ASP NET CORE WEB API\AngularCLI-ASPNET-Core-CustomersService-master\obj\Debug\netcoreapp2.1\RobotStore_Service.RazorCoreGenerate.cache
+C:\Users\relut\Desktop\ASP NET CORE WEB API\AngularCLI-ASPNET-Core-CustomersService-master\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\relut\Desktop\ASP NET CORE WEB API\AngularCLI-ASPNET-Core-CustomersService-master\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\relut\Desktop\ASP NET CORE WEB API\AngularCLI-ASPNET-Core-CustomersService-master\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\relut\Desktop\ASP NET CORE WEB API\AngularCLI-ASPNET-Core-CustomersService-master\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\relut\Desktop\ASP NET CORE WEB API\AngularCLI-ASPNET-Core-CustomersService-master\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\relut\Desktop\ASP NET CORE WEB API\AngularCLI-ASPNET-Core-CustomersService-master\obj\Debug\netcoreapp2.1\RobotStore_Service.RazorTargetAssemblyInfo.cache
+C:\Users\relut\Desktop\ASP NET CORE WEB API\AngularCLI-ASPNET-Core-CustomersService-master\obj\Debug\netcoreapp2.1\RobotStore_Service.RazorTargetAssemblyInfo.cs
+C:\Users\relut\Desktop\ASP NET CORE WEB API\AngularCLI-ASPNET-Core-CustomersService-master\obj\Debug\netcoreapp2.1\RobotStore_Service.Views.pdb
+C:\Users\relut\Desktop\ASP NET CORE WEB API\AngularCLI-ASPNET-Core-CustomersService-master\obj\Debug\netcoreapp2.1\RobotStore_Service.dll
+C:\Users\relut\Desktop\ASP NET CORE WEB API\AngularCLI-ASPNET-Core-CustomersService-master\obj\Debug\netcoreapp2.1\RobotStore_Service.pdb
+C:\Users\relut\Desktop\ASP NET CORE WEB API\AngularCLI-ASPNET-Core-CustomersService-master\obj\Debug\netcoreapp2.1\RobotStore_Service.csproj.CopyComplete
+C:\Users\relut\Desktop\ASP NET CORE WEB API\AngularCLI-ASPNET-Core-CustomersService-master\obj\Debug\netcoreapp2.1\RobotStore_Service.csprojAssemblyReference.cache
+F:\GIT_SourceControl\RobotStore_Service\bin\Debug\netcoreapp2.1\RobotStore_Service.deps.json
+F:\GIT_SourceControl\RobotStore_Service\bin\Debug\netcoreapp2.1\RobotStore_Service.runtimeconfig.json
+F:\GIT_SourceControl\RobotStore_Service\bin\Debug\netcoreapp2.1\RobotStore_Service.runtimeconfig.dev.json
+F:\GIT_SourceControl\RobotStore_Service\bin\Debug\netcoreapp2.1\RobotStore_Service.dll
+F:\GIT_SourceControl\RobotStore_Service\bin\Debug\netcoreapp2.1\RobotStore_Service.pdb
+F:\GIT_SourceControl\RobotStore_Service\bin\Debug\netcoreapp2.1\RobotStore_Service.Views.dll
+F:\GIT_SourceControl\RobotStore_Service\bin\Debug\netcoreapp2.1\RobotStore_Service.Views.pdb
+F:\GIT_SourceControl\RobotStore_Service\obj\Debug\netcoreapp2.1\RobotStore_Service.csprojAssemblyReference.cache
+F:\GIT_SourceControl\RobotStore_Service\obj\Debug\netcoreapp2.1\RobotStore_Service.csproj.CoreCompileInputs.cache
+F:\GIT_SourceControl\RobotStore_Service\obj\Debug\netcoreapp2.1\RobotStore_Service.RazorAssemblyInfo.cache
+F:\GIT_SourceControl\RobotStore_Service\obj\Debug\netcoreapp2.1\RobotStore_Service.RazorAssemblyInfo.cs
+F:\GIT_SourceControl\RobotStore_Service\obj\Debug\netcoreapp2.1\RobotStore_Service.AssemblyInfoInputs.cache
+F:\GIT_SourceControl\RobotStore_Service\obj\Debug\netcoreapp2.1\RobotStore_Service.AssemblyInfo.cs
+F:\GIT_SourceControl\RobotStore_Service\obj\Debug\netcoreapp2.1\RobotStore_Service.TagHelpers.input.cache
+F:\GIT_SourceControl\RobotStore_Service\obj\Debug\netcoreapp2.1\RobotStore_Service.TagHelpers.output.cache
+F:\GIT_SourceControl\RobotStore_Service\obj\Debug\netcoreapp2.1\RobotStore_Service.RazorCoreGenerate.cache
+F:\GIT_SourceControl\RobotStore_Service\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+F:\GIT_SourceControl\RobotStore_Service\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+F:\GIT_SourceControl\RobotStore_Service\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+F:\GIT_SourceControl\RobotStore_Service\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+F:\GIT_SourceControl\RobotStore_Service\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+F:\GIT_SourceControl\RobotStore_Service\obj\Debug\netcoreapp2.1\RobotStore_Service.RazorTargetAssemblyInfo.cache
+F:\GIT_SourceControl\RobotStore_Service\obj\Debug\netcoreapp2.1\RobotStore_Service.RazorTargetAssemblyInfo.cs
+F:\GIT_SourceControl\RobotStore_Service\obj\Debug\netcoreapp2.1\RobotStore_Service.Views.pdb
+F:\GIT_SourceControl\RobotStore_Service\obj\Debug\netcoreapp2.1\RobotStore_Service.dll
+F:\GIT_SourceControl\RobotStore_Service\obj\Debug\netcoreapp2.1\RobotStore_Service.pdb
+F:\GIT_SourceControl\RobotStore_Service\obj\Debug\netcoreapp2.1\RobotStore_Service.csproj.CopyComplete

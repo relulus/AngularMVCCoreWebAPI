@@ -1,0 +1,30 @@
+<div class="container">
+    <div class="row grid-container">
+        <div class="col-md-10">
+            <div class="table">
+                <table class="table table-striped table-hover">
+                    <thead>
+                        <tr>                          
+                            <th (click)="sort('code')">Code</th>
+                            <th (click)="sort('name')">Name</th>
+                            <th (click)="sort('description')">Description</th>
+                            <th (click)="sort('Price')">Price</th>                          
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr *ngFor="let robot of robots;trackBy:trackby.robot">
+                            <td><a [routerLink]="['/robots',robot.id]">{{ robot.code | capitalize }}</a></td>
+                            <td>{{ robot.name | capitalize }}</td>
+                            <td>{{ robot.description | trim }}</td>
+                            <td>{{ robot.price + ' Euro'}}</td>                           
+                        </tr>
+                        <tr *ngIf="!robots.length">
+                            <td>&nbsp;</td>
+                            <td colspan="6">No Records Found</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>

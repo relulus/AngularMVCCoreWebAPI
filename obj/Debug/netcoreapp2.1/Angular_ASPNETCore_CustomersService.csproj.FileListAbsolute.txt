@@ -1,0 +1,53 @@
+C:\Users\relut\Desktop\New folder\AngularCLI-ASPNET-Core-CustomersService-master\bin\Debug\netcoreapp2.1\Angular_ASPNETCore_CustomersService.deps.json
+C:\Users\relut\Desktop\New folder\AngularCLI-ASPNET-Core-CustomersService-master\bin\Debug\netcoreapp2.1\Angular_ASPNETCore_CustomersService.runtimeconfig.json
+C:\Users\relut\Desktop\New folder\AngularCLI-ASPNET-Core-CustomersService-master\bin\Debug\netcoreapp2.1\Angular_ASPNETCore_CustomersService.runtimeconfig.dev.json
+C:\Users\relut\Desktop\New folder\AngularCLI-ASPNET-Core-CustomersService-master\bin\Debug\netcoreapp2.1\Angular_ASPNETCore_CustomersService.dll
+C:\Users\relut\Desktop\New folder\AngularCLI-ASPNET-Core-CustomersService-master\bin\Debug\netcoreapp2.1\Angular_ASPNETCore_CustomersService.pdb
+C:\Users\relut\Desktop\New folder\AngularCLI-ASPNET-Core-CustomersService-master\bin\Debug\netcoreapp2.1\Angular_ASPNETCore_CustomersService.Views.dll
+C:\Users\relut\Desktop\New folder\AngularCLI-ASPNET-Core-CustomersService-master\bin\Debug\netcoreapp2.1\Angular_ASPNETCore_CustomersService.Views.pdb
+C:\Users\relut\Desktop\New folder\AngularCLI-ASPNET-Core-CustomersService-master\obj\Debug\netcoreapp2.1\Angular_ASPNETCore_CustomersService.csprojAssemblyReference.cache
+C:\Users\relut\Desktop\New folder\AngularCLI-ASPNET-Core-CustomersService-master\obj\Debug\netcoreapp2.1\Angular_ASPNETCore_CustomersService.csproj.CoreCompileInputs.cache
+C:\Users\relut\Desktop\New folder\AngularCLI-ASPNET-Core-CustomersService-master\obj\Debug\netcoreapp2.1\Angular_ASPNETCore_CustomersService.RazorAssemblyInfo.cache
+C:\Users\relut\Desktop\New folder\AngularCLI-ASPNET-Core-CustomersService-master\obj\Debug\netcoreapp2.1\Angular_ASPNETCore_CustomersService.RazorAssemblyInfo.cs
+C:\Users\relut\Desktop\New folder\AngularCLI-ASPNET-Core-CustomersService-master\obj\Debug\netcoreapp2.1\Angular_ASPNETCore_CustomersService.AssemblyInfoInputs.cache
+C:\Users\relut\Desktop\New folder\AngularCLI-ASPNET-Core-CustomersService-master\obj\Debug\netcoreapp2.1\Angular_ASPNETCore_CustomersService.AssemblyInfo.cs
+C:\Users\relut\Desktop\New folder\AngularCLI-ASPNET-Core-CustomersService-master\obj\Debug\netcoreapp2.1\Angular_ASPNETCore_CustomersService.TagHelpers.input.cache
+C:\Users\relut\Desktop\New folder\AngularCLI-ASPNET-Core-CustomersService-master\obj\Debug\netcoreapp2.1\Angular_ASPNETCore_CustomersService.TagHelpers.output.cache
+C:\Users\relut\Desktop\New folder\AngularCLI-ASPNET-Core-CustomersService-master\obj\Debug\netcoreapp2.1\Angular_ASPNETCore_CustomersService.RazorCoreGenerate.cache
+C:\Users\relut\Desktop\New folder\AngularCLI-ASPNET-Core-CustomersService-master\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\relut\Desktop\New folder\AngularCLI-ASPNET-Core-CustomersService-master\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\relut\Desktop\New folder\AngularCLI-ASPNET-Core-CustomersService-master\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\relut\Desktop\New folder\AngularCLI-ASPNET-Core-CustomersService-master\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\relut\Desktop\New folder\AngularCLI-ASPNET-Core-CustomersService-master\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\relut\Desktop\New folder\AngularCLI-ASPNET-Core-CustomersService-master\obj\Debug\netcoreapp2.1\Angular_ASPNETCore_CustomersService.RazorTargetAssemblyInfo.cache
+C:\Users\relut\Desktop\New folder\AngularCLI-ASPNET-Core-CustomersService-master\obj\Debug\netcoreapp2.1\Angular_ASPNETCore_CustomersService.RazorTargetAssemblyInfo.cs
+C:\Users\relut\Desktop\New folder\AngularCLI-ASPNET-Core-CustomersService-master\obj\Debug\netcoreapp2.1\Angular_ASPNETCore_CustomersService.Views.pdb
+C:\Users\relut\Desktop\New folder\AngularCLI-ASPNET-Core-CustomersService-master\obj\Debug\netcoreapp2.1\Angular_ASPNETCore_CustomersService.dll
+C:\Users\relut\Desktop\New folder\AngularCLI-ASPNET-Core-CustomersService-master\obj\Debug\netcoreapp2.1\Angular_ASPNETCore_CustomersService.pdb
+C:\Users\relut\Desktop\New folder\AngularCLI-ASPNET-Core-CustomersService-master\obj\Debug\netcoreapp2.1\Angular_ASPNETCore_CustomersService.csproj.CopyComplete
+C:\Users\relut\Desktop\ASP NET CORE WEB API\AngularCLI-ASPNET-Core-CustomersService-master\bin\Debug\netcoreapp2.1\Angular_ASPNETCore_CustomersService.deps.json
+C:\Users\relut\Desktop\ASP NET CORE WEB API\AngularCLI-ASPNET-Core-CustomersService-master\bin\Debug\netcoreapp2.1\Angular_ASPNETCore_CustomersService.runtimeconfig.json
+C:\Users\relut\Desktop\ASP NET CORE WEB API\AngularCLI-ASPNET-Core-CustomersService-master\bin\Debug\netcoreapp2.1\Angular_ASPNETCore_CustomersService.runtimeconfig.dev.json
+C:\Users\relut\Desktop\ASP NET CORE WEB API\AngularCLI-ASPNET-Core-CustomersService-master\bin\Debug\netcoreapp2.1\Angular_ASPNETCore_CustomersService.dll
+C:\Users\relut\Desktop\ASP NET CORE WEB API\AngularCLI-ASPNET-Core-CustomersService-master\bin\Debug\netcoreapp2.1\Angular_ASPNETCore_CustomersService.pdb
+C:\Users\relut\Desktop\ASP NET CORE WEB API\AngularCLI-ASPNET-Core-CustomersService-master\bin\Debug\netcoreapp2.1\Angular_ASPNETCore_CustomersService.Views.dll
+C:\Users\relut\Desktop\ASP NET CORE WEB API\AngularCLI-ASPNET-Core-CustomersService-master\bin\Debug\netcoreapp2.1\Angular_ASPNETCore_CustomersService.Views.pdb
+C:\Users\relut\Desktop\ASP NET CORE WEB API\AngularCLI-ASPNET-Core-CustomersService-master\obj\Debug\netcoreapp2.1\Angular_ASPNETCore_CustomersService.csproj.CoreCompileInputs.cache
+C:\Users\relut\Desktop\ASP NET CORE WEB API\AngularCLI-ASPNET-Core-CustomersService-master\obj\Debug\netcoreapp2.1\Angular_ASPNETCore_CustomersService.RazorAssemblyInfo.cache
+C:\Users\relut\Desktop\ASP NET CORE WEB API\AngularCLI-ASPNET-Core-CustomersService-master\obj\Debug\netcoreapp2.1\Angular_ASPNETCore_CustomersService.RazorAssemblyInfo.cs
+C:\Users\relut\Desktop\ASP NET CORE WEB API\AngularCLI-ASPNET-Core-CustomersService-master\obj\Debug\netcoreapp2.1\Angular_ASPNETCore_CustomersService.AssemblyInfoInputs.cache
+C:\Users\relut\Desktop\ASP NET CORE WEB API\AngularCLI-ASPNET-Core-CustomersService-master\obj\Debug\netcoreapp2.1\Angular_ASPNETCore_CustomersService.AssemblyInfo.cs
+C:\Users\relut\Desktop\ASP NET CORE WEB API\AngularCLI-ASPNET-Core-CustomersService-master\obj\Debug\netcoreapp2.1\Angular_ASPNETCore_CustomersService.TagHelpers.input.cache
+C:\Users\relut\Desktop\ASP NET CORE WEB API\AngularCLI-ASPNET-Core-CustomersService-master\obj\Debug\netcoreapp2.1\Angular_ASPNETCore_CustomersService.TagHelpers.output.cache
+C:\Users\relut\Desktop\ASP NET CORE WEB API\AngularCLI-ASPNET-Core-CustomersService-master\obj\Debug\netcoreapp2.1\Angular_ASPNETCore_CustomersService.RazorCoreGenerate.cache
+C:\Users\relut\Desktop\ASP NET CORE WEB API\AngularCLI-ASPNET-Core-CustomersService-master\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\relut\Desktop\ASP NET CORE WEB API\AngularCLI-ASPNET-Core-CustomersService-master\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\relut\Desktop\ASP NET CORE WEB API\AngularCLI-ASPNET-Core-CustomersService-master\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\relut\Desktop\ASP NET CORE WEB API\AngularCLI-ASPNET-Core-CustomersService-master\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\relut\Desktop\ASP NET CORE WEB API\AngularCLI-ASPNET-Core-CustomersService-master\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\relut\Desktop\ASP NET CORE WEB API\AngularCLI-ASPNET-Core-CustomersService-master\obj\Debug\netcoreapp2.1\Angular_ASPNETCore_CustomersService.RazorTargetAssemblyInfo.cache
+C:\Users\relut\Desktop\ASP NET CORE WEB API\AngularCLI-ASPNET-Core-CustomersService-master\obj\Debug\netcoreapp2.1\Angular_ASPNETCore_CustomersService.RazorTargetAssemblyInfo.cs
+C:\Users\relut\Desktop\ASP NET CORE WEB API\AngularCLI-ASPNET-Core-CustomersService-master\obj\Debug\netcoreapp2.1\Angular_ASPNETCore_CustomersService.Views.pdb
+C:\Users\relut\Desktop\ASP NET CORE WEB API\AngularCLI-ASPNET-Core-CustomersService-master\obj\Debug\netcoreapp2.1\Angular_ASPNETCore_CustomersService.dll
+C:\Users\relut\Desktop\ASP NET CORE WEB API\AngularCLI-ASPNET-Core-CustomersService-master\obj\Debug\netcoreapp2.1\Angular_ASPNETCore_CustomersService.pdb
+C:\Users\relut\Desktop\ASP NET CORE WEB API\AngularCLI-ASPNET-Core-CustomersService-master\obj\Debug\netcoreapp2.1\Angular_ASPNETCore_CustomersService.csproj.CopyComplete

@@ -1,0 +1,31 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <TypeScriptToolsVersion>3.1</TypeScriptToolsVersion>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Migrations\20190224074327_RoboMigraion.cs" />
+    <Compile Remove="Migrations\20190224074327_RoboMigraion.Designer.cs" />
+    <Compile Remove="Migrations\20190224074834_RoboMigration.cs" />
+    <Compile Remove="Migrations\20190224074834_RoboMigration.Designer.cs" />
+    <Compile Remove="Migrations\20190224075141_Initial.cs" />
+    <Compile Remove="Migrations\20190224075141_Initial.Designer.cs" />
+    <Compile Remove="Migrations\20190224075324_Initial.cs" />
+    <Compile Remove="Migrations\20190224075324_Initial.Designer.cs" />
+    <Compile Remove="Migrations\20190224082723_Initial.cs" />
+    <Compile Remove="Migrations\20190224082723_Initial.Designer.cs" />
+    <Compile Remove="Migrations\20190224084604_Initial.cs" />
+    <Compile Remove="Migrations\20190224084604_Initial.Designer.cs" />
+    <Compile Remove="Migrations\20190224084734_Initial.cs" />
+    <Compile Remove="Migrations\20190224084734_Initial.Designer.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="3.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="2.1.1" />
+  </ItemGroup>
+
+</Project>

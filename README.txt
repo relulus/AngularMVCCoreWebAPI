@@ -31,7 +31,7 @@ dotnet watch run
 
 
 
-Migrations with EF steps: (NUGet)
+### Migrations with EF steps: (NuGet)
 
 1. Add-Migration Initial
 2. Update-Database -Verbose
